@@ -1,0 +1,1 @@
+# laba-6_module-2_frontend
